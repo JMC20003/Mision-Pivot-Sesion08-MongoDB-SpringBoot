@@ -1,0 +1,8 @@
+com\demo\example\mscustomerdummy\MsCustomerDummyApplication.class
+com\demo\example\mscustomerdummy\model\Customer.class
+com\demo\example\mscustomerdummy\config\OpenApiConfig.class
+com\demo\example\mscustomerdummy\model\Customer$CustomerBuilder.class
+com\demo\example\mscustomerdummy\repository\CustomerRepository.class
+com\demo\example\mscustomerdummy\service\CustomerService.class
+com\demo\example\mscustomerdummy\service\impl\CustomerServiceImpl.class
+com\demo\example\mscustomerdummy\controller\CustomerController.class
